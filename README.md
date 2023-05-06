@@ -13,7 +13,7 @@ Use Postman to send requests.
 
 
 #### Register a new sensor
-
+!![Since this entity only field "name" we have to sepcifiy its name](https://github.com/VeeRomanoff/Weather-Sensor-RestAPI/blob/main/images/RegisterSensor.png?raw=true)
 
 
 
