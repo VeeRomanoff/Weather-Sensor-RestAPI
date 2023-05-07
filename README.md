@@ -16,7 +16,7 @@ This is one of my training projects, and since this is one of my first ones, I e
 
 I also have some issues with exception handling and maybe I overcomplicated things when they could have been simpler, but I'm trying to keep this project going and improve it both in terms of adding new features and making the code more compact and readable.
 
-## API Reference
+## API Reference ⚔️
 I suggest you to use Postman to send requests.
 #### Register a new sensor
 
