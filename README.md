@@ -11,7 +11,7 @@ The program simulates a weather sensor. This sensor measures the ambient air tem
 
 
 ## A few words about building this project 🍃
-Since this is one of my first projects, I encountered a little difficulty in creating this project. For example, I didn't know how to send JSON to the server which would contain another object inside itself as JSON as well. 
+This is one of my training projects, and since this is one of my first ones, I encountered a little difficulty in creating this project. For example, I didn't know how to send JSON to the server which would contain another object inside itself as JSON as well. 
 #### 
 
 I also have some issues with exception handling and maybe I overcomplicated things when they could have been simpler, but I'm trying to keep this project going and improve it both in terms of adding new features and making the code more compact and readable.
