@@ -91,7 +91,9 @@ Adds a new measurement. This is the address where the real sensor would send its
 
 🥳 Congratulations! You just connected to the database.
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sadrrainbow/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-E1306C?style=for-the-badge&logo=blue&logoColor=white)](https://www.linkedin.com/)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/westernthug)
 
